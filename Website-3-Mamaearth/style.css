@@ -795,9 +795,9 @@ del {
 }
 
 .footer {
-    height: 100vh;
+    height: 147vh;
     width: 80vw;
-    border: .1vw solid rgba(0, 0, 0, 0.250);
+    border: .1vw solid rgba(0, 0, 0, 0);
 }
 
 [alt="shipping"] {
@@ -894,6 +894,8 @@ del {
     gap: 2vw;
     justify-content: space-around;
     padding: 2vw;
+    height: auto;
+    border: .1vw solid rgba(0, 0, 0, 0.250);
 }
 
 .row3-col1{
@@ -919,7 +921,6 @@ del {
     padding: 2vw;
     align-items: center;
     border: .1vw solid rgba(0, 0, 0, 0.250);
-    height: auto;
 }
 
 .row4-col1{
