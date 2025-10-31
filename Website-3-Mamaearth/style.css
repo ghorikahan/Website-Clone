@@ -919,6 +919,7 @@ del {
     padding: 2vw;
     align-items: center;
     border: .1vw solid rgba(0, 0, 0, 0.250);
+    height: auto;
 }
 
 .row4-col1{
